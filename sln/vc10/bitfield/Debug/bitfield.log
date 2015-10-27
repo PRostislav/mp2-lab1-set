@@ -1,0 +1,14 @@
+﻿Build started 26.10.2015 18:24:22.
+     1>Project "C:\Users\Ростислав\Documents\GitHub\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../../include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\src\tset.cpp
+         tset.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Ростислав\Documents\GitHub\mp2-lab1-set\sln\vc10\Debug\bitfield.lib" /NOLOGO Debug\tbitfield.obj
+         Debug\tset.obj
+         bitfield.vcxproj -> C:\Users\Ростислав\Documents\GitHub\mp2-lab1-set\sln\vc10\Debug\bitfield.lib
+     1>Done Building Project "C:\Users\Ростислав\Documents\GitHub\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.81

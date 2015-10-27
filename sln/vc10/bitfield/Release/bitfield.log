@@ -1,0 +1,16 @@
+﻿Build started 26.10.2015 17:54:53.
+     1>Project "C:\Users\Ростислав\Documents\GitHub\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../../include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\src\tbitfield.cpp ..\..\..\src\tset.cpp
+         tbitfield.cpp
+     1>..\..\..\src\tbitfield.cpp(208): warning C4552: '>>' : operator has no effect; expected operator with side-effect
+         tset.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Ростислав\Documents\GitHub\mp2-lab1-set\sln\vc10\Release\bitfield.lib" /NOLOGO /LTCG Release\tbitfield.obj
+         Release\tset.obj
+         bitfield.vcxproj -> C:\Users\Ростислав\Documents\GitHub\mp2-lab1-set\sln\vc10\Release\bitfield.lib
+     1>Done Building Project "C:\Users\Ростислав\Documents\GitHub\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.35
